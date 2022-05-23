@@ -1,0 +1,1 @@
+# Projet 6 OpenClassrooms, création d'un serveur pour une application de notation culinaire. Avec l'application Piiquante, vous pouvez uploader une sauce, la modifier, la supprimer et ajouter des likes/dislikes sur les sauces disponibles
