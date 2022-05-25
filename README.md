@@ -7,6 +7,7 @@ L'application comporte la page de création d'utilisateur, de connexion, d'accue
 
 L'application permet de : 
 - De créer des utilisateurs,
+- Se connecter à son compte,
 - D'afficher toutes les sauces sauvegardées sur la page d'accueil,
 - Créer ses propres sauces,
 - Modifier et supprimer ses sauces,
